@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zenko/CLionProjects/insert_sort/main.cpp
+iostream
+-
+array
+/home/zenko/CLionProjects/insert_sort/array
+
